@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-importy stream
+
 
 #x = st.slider('Select a value')
 #st.write(x, 'squared is', x*x)
